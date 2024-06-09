@@ -1,4 +1,6 @@
+// src/environments/environment.prod.ts
 export const environment = {
-  production: false,
-  apiUrl: 'https://sistemaplanillas.onrender.com/api',
- };
+    production: false,
+    apiUrl: 'http://localhost:8000/api',  
+};
+  
